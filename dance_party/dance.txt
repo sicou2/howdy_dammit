@@ -1,0 +1,15 @@
+Left
+Right
+Left
+Right
+Up
+Up
+Down
+Down
+B
+A
+B
+A
+Select
+Select 
+Start
